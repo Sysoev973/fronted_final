@@ -5,3 +5,4 @@ export const endpoints = {
   auth: `${BASE_URL}/api/auth/login`,
   me: `${BASE_URL}/api/me`,
 }
+//d
